@@ -3,7 +3,7 @@ lines.linewidth : 3
 lines.markersize : 10
 
 #FONT
-#font.family : Times New Roman
+#font.family : Arial
 font.weight : bold
 
 #LATEX
